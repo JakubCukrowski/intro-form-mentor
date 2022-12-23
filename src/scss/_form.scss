@@ -102,6 +102,7 @@ form {
   }
 
   .submit-btn {
+    -webkit-appearance: none;
     cursor: pointer;
     background-color: $submitBtn;
     box-shadow: 0 6px 0 0 rgba($submitBtn, 0.8);
