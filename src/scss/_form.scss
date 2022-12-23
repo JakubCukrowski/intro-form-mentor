@@ -1,0 +1,123 @@
+//desktop view
+@mixin desktop {
+  @media screen and (min-width: 1000px){
+    @content
+  }
+}
+
+//colors
+$bgColor: hsl(0, 100%, 74%);
+$submitBtn: hsl(154, 59%, 51%);
+$accentColor: hsl(248, 32%, 49%);
+$placeholderColor: hsl(249, 10%, 26%);
+$termsColor: hsl(246, 25%, 77%);
+
+//font
+$poppins: 'Poppins', sans-serif;
+
+section {
+  background: $bgColor url("../../images/bg-intro-mobile.png")no-repeat center/contain;
+  max-width: 100%;
+  min-height: 100vh;
+  font-family: $poppins;
+  text-align: center;
+  padding-top: 4.5rem;
+  padding-bottom: 2rem;
+  @include desktop {
+    background-image: url("../../images/bg-intro-desktop.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h2 {
+    margin-bottom: 0.8em;
+    font-size: 22px;
+    color: white;
+    line-height: 1.3em;
+    font-weight: 700;
+
+    @include desktop {
+      font-size: 40px;
+      text-align: left;
+    }
+  }
+
+  p {
+    color: white;
+    margin: 0 auto 2em;
+    width: 95%;
+
+    @include desktop {
+      font-size: 14px;
+      text-align: left;
+      margin: 0;
+    }
+  }
+
+  .try-free-btn {
+    background-color: $accentColor;
+    box-shadow: 0 6px 0 0 rgba(66, 68, 90, 0.3);
+    width: calc(100% - 28px);
+    margin-bottom: 1.2em;
+    font-weight: 500;
+    cursor: pointer;
+
+    span {
+      font-weight: 700;
+    }
+
+    br {
+      @include desktop {
+        display: none;
+      }
+    }
+  }
+}
+
+.btn {
+  padding: 1.4em;
+  border-radius: 0.7em;
+  border: none;
+  color: white;
+}
+
+form {
+  background-color: white;
+  width: calc(100% - 28px);
+  margin: 0 auto;
+  border-radius: 0.7em;
+  padding: 1.2em;
+
+  input {
+    width: 100%;
+    margin-bottom: 1em;
+    padding: 0.8em;
+    border: 1px solid rgba($termsColor, 0.6);
+    border-radius: 0.4em;
+
+    &::placeholder {
+      font-weight: 600;
+    }
+  }
+
+  .submit-btn {
+    cursor: pointer;
+    background-color: $submitBtn;
+    box-shadow: 0 6px 0 0 rgba($submitBtn, 0.8);
+    font-weight: 700;
+    letter-spacing: 0.110em;
+  }
+
+  p {
+    color: $termsColor;
+    font-size: 0.65em;
+    font-weight: 400;
+
+    a {
+      text-decoration: none;
+      color: $bgColor;
+      font-weight: 700;
+    }
+  }
+}
