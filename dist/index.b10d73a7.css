@@ -17,6 +17,10 @@ section {
   }
 }
 
+section .form-container {
+  width: 100%;
+}
+
 section h2 {
   color: #fff;
   margin-bottom: .8em;
@@ -55,7 +59,7 @@ section .try-free-btn {
   box-shadow: 0 6px #42445a4d;
 }
 
-section .try-free-btn span {
+section .try-free-btn .try-bold {
   font-weight: 700;
 }
 
@@ -80,11 +84,34 @@ form {
   padding: 1.2em;
 }
 
+form .input-field {
+  text-align: right;
+  color: tomato;
+  margin-bottom: 2em;
+  font-size: 10px;
+}
+
+form .input-field .input-group {
+  position: relative;
+}
+
+form .input-field .error {
+  margin-top: .3em;
+  display: none;
+}
+
+form .input-field .error-img {
+  display: none;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+}
+
 form input {
   width: 100%;
   border: 1px solid #b9b6d399;
   border-radius: .4em;
-  margin-bottom: 1em;
   padding: .8em;
 }
 
@@ -93,9 +120,11 @@ form input::placeholder {
 }
 
 form .submit-btn {
+  -webkit-appearance: none;
   cursor: pointer;
   letter-spacing: .11em;
   background-color: #38cc8c;
+  margin-bottom: 1em;
   font-weight: 700;
   box-shadow: 0 6px #38cc8ccc;
 }
@@ -110,6 +139,10 @@ form p a {
   color: #ff7a7a;
   font-weight: 700;
   text-decoration: none;
+}
+
+.invalid {
+  border: 1px solid red;
 }
 
 * {
