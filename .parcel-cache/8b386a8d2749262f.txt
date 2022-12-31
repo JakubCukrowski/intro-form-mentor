@@ -10,7 +10,7 @@
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\utils\test\input\config133162866050324052 1
 137C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@swc\helpers\src\_interop_require_default.mjs133162866050821181 0
 101C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\path-type133162866043716582 1
-83C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist133163917188725445 1
+83C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist133169757126366703 1
 89C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.gitignore133162859391487413 0
 124C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\css-what\lib\commonjs\index.d.ts133162866046886563 0
 127C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\update-browserslist-db\package.json133162866044126568 0
@@ -27,7 +27,7 @@
 119C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\source-map-js\lib\base64.js133162881823990651 0
 143C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133162866048555438 0
 173C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js133162866045886573 0
-84C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.idea133163915976549641 1
+84C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.idea133169758401208485 1
 126C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\abortcontroller-polyfill\README.md133162866046246585 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\KM.js133162866053814221 0
 101C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\svgo\dist133162866049744441 1
@@ -51,7 +51,7 @@
 85C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\images133162859392977413 1
 122C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\watcher\src\binding.cc133162866043146577 0
 109C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\nth-check\LICENSE133162866042179941 0
-87C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\scss133163891680262492 1
+87C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\scss133169754087694760 1
 117C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\svgo\plugins\sortAttrs.js133162866049604433 0
 140C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@swc\helpers\src\_class_private_field_update.mjs133162866050509663 0
 125C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\aac.js133162866042946588 0
@@ -95,11 +95,11 @@
 100C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\entities133162866046936566 1
 144C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133162866053934211 0
 118C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\msgpackr\dist\index.js.map133162866047862368 0
-93C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\app\app.js133163917187901841 0
+93C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\app\app.js133169757123329095 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\core\test\test-utils.js133162866051051201 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\MK.js133162866054309382 0
 126C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\css-what\lib\commonjs\stringify.js133162866044666566 0
-86C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\app133163917187911852 1
+86C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\app133169757123329095 1
 116C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\picocolors\picocolors.js133162866042966580 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\core\src\public133162866050931135 1
 121C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\browsers.js133162866049863591 0
@@ -126,7 +126,7 @@
 135C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\online-status.js133162866054763819 0
 139C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\transformer-image\src\validateConfig.js133162866044706556 0
 100C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\lmdb\src133162866050294085 1
-98C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\scss\_form.scss133163891680252471 0
+98C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\src\scss\_form.scss133169754087684738 0
 181C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133162866050237679 0
 130C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\htmlnano\lib\modules\sortAttributes.js133162866047732371 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\csso\lib\replace133162866048945452 1
@@ -579,7 +579,7 @@
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\DZ.js133162866052373144 0
 143C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\transformer-react-refresh-wrap\package.json133162866045206565 0
 152C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133162866049544417 0
-94C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.html133163891154877696 0
+94C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.html133169757126356693 0
 120C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\yaml\dist\Schema-88e323a7.js133162866047862368 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\v8-compile-cache133162866043846586 1
 127C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\woff2.js133162866056576721 0
@@ -1060,7 +1060,7 @@
 109C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\is-json\README.md133162866042966580 0
 133C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\videotracks.js133162866056328233 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\posthtml-parser\license133162866042249935 0
-135C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\intro-component-with-signup-form-master.59712999.js133162935639996459 0
+135C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\intro-component-with-signup-form-master.59712999.js133169757125441517 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\CF.js133162866050167002 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\terser\bin\package.json133162866049395439 0
 125C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\eme.js133162866052433184 0
@@ -2842,7 +2842,7 @@
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\NC.js133162866054569374 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\NO.js133162866054629376 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\NR.js133162866054659375 0
-107C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\icon-error.24b9dc76.svg133163884540274116 0
+107C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\icon-error.24b9dc76.svg133169757126356693 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\regions\NZ.js133162866054679376 0
 131C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\mpeg-dash.js133162866054359383 0
 137C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\caniuse-lite\data\features\background-sync.js133162866049255432 0
@@ -3903,7 +3903,7 @@
 139C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133162866050065555 1
 110C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\plugin\lib133162866042616586 1
 110C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\plugin\src133162866043916565 1
-98C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.idea\workspace.xml133163915976534562 0
+98C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.idea\workspace.xml133169758401208485 0
 116C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\packager-svg\lib133162866042636571 1
 125C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\packager-svg\package.json133162866043666580 0
 116C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@parcel\packager-svg\src133162866043166557 1
@@ -4261,7 +4261,7 @@
 119C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\dist133162866045616577 1
 122C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\LICENSE133162866042139956 0
 124C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\README.md133162866045136568 0
-106C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.b10d73a7.css.map133163891681163005 0
+106C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.b10d73a7.css.map133169757125481546 0
 137C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\dist\source-map.umd.js133162866042856600 0
 141C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\dist\source-map.umd.js.map133162866044806564 0
 125C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\node_modules\@jridgewell\source-map\dist\types133162866045696567 1
@@ -4357,12 +4357,12 @@
 106C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\images\bg-intro-desktop.png133162859392707411 0
 105C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\images\bg-intro-mobile.png133162859392827447 0
 100C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\images\icon-error.svg133162859393087455 0
-113C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\bg-intro-desktop.5974f34b.png133162959747729201 0
-112C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\bg-intro-mobile.101781c4.png133162935639996459 0
-101C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.1fb1e2b0.js133163917188695459 0
-105C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.1fb1e2b0.js.map133163917188725445 0
-102C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.b10d73a7.css133163891681152996 0
-139C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\intro-component-with-signup-form-master.59712999.js.map133162935640076452 0
+113C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\bg-intro-desktop.5974f34b.png133169757125421526 0
+112C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\bg-intro-mobile.101781c4.png133169757126066768 0
+101C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.1fb1e2b0.js133169757126136710 0
+105C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.1fb1e2b0.js.map133169757126166706 0
+102C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\index.b10d73a7.css133169757125421526 0
+139C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\dist\intro-component-with-signup-form-master.59712999.js.map133169757125481546 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\design\active-states.jpg133162859392167454 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\design\mobile-design.jpg133162859392547435 0
 95C:\Users\jdcuk\Desktop\frontend-mentor\intro-component-with-signup-form-master\.idea\.gitignore133162863994772411 0

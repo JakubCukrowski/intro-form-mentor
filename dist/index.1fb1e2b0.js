@@ -3,6 +3,7 @@ const nameInput = form.querySelector("#firstName");
 const surnameInput = form.querySelector("#surname");
 const passInput = form.querySelector("#password");
 const emailInput = form.querySelector("#email");
+const mailFormat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 const nameValidation = ()=>{
     const nameError = form.querySelector(".name-error");
     const errorIcon = form.querySelector("#firstName").parentElement.nextElementSibling;
@@ -30,7 +31,7 @@ const surnameValidation = ()=>{
 const emailValidation = ()=>{
     const emailError = form.querySelector(".email-error");
     const errorIcon = form.querySelector("#email").parentElement.nextElementSibling;
-    if (emailInput.value.length === 0) {
+    if (!emailInput.value.match(mailFormat)) {
         emailError.style.display = "block";
         emailInput.classList.add("invalid");
         return errorIcon.style.display = "block";
@@ -59,7 +60,7 @@ const validate = ()=>{
 };
 const handleSubmit = (e)=>{
     e.preventDefault();
-    if (!validate()) alert("Sent");
+    validate();
 };
 form.addEventListener("submit", handleSubmit);
 nameInput.addEventListener("keyup", nameValidation);
